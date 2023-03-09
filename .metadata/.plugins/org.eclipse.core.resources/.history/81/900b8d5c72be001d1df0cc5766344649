@@ -1,0 +1,25 @@
+package com.adi.inputMVC;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
+
+@Controller
+public class working {
+	
+	@RequestMapping("/page1")
+	public ModelAndView helloName() {
+	
+		ModelAndView model = new ModelAndView("HelloPage");
+		model.addObject("wel","Hi User, welcome to the first Spring MVC Application");
+		return model;
+	}
+	@RequestMapping("/page2")
+	public ModelAndView helloPos() {
+	
+		ModelAndView model1 = new ModelAndView("HelloPage");
+		model1.addObject("wel","Analyst");
+		return model1;
+	}
+
+}

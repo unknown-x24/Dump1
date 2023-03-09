@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Thu Mar 09 18:23:19 IST 2023
+org.eclipse.jst.jee.server\:/binary\:/Users/adityabhandari/Downloads/HelloWorldMVC/src/main/webapp/WEB-INF/lib/spring-web-4.0.4.RELEASE.jar=WEB-INF/lib/spring-web-4.0.4.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/adityabhandari/eclipse-workspace/inputMVC/src/main/webapp/WEB-INF/lib/spring-web-4.0.4.RELEASE.jar=WEB-INF/lib/spring-web-4.0.4.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:/Users/adityabhandari/eclipse-workspace/exSpringMVC/src/main/webapp/WEB-INF/lib/spring-web-4.0.4.RELEASE.jar=WEB-INF/lib/spring-web-4.0.4.RELEASE.jar
